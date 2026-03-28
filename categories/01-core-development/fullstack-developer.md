@@ -107,21 +107,6 @@ Deployment pipeline:
 - Rollback procedures
 - Monitoring integration
 
-## Communication Protocol
-
-### Initial Stack Assessment
-
-Begin every fullstack task by understanding the complete technology landscape.
-
-Context acquisition query:
-```json
-{
-  "requesting_agent": "fullstack-developer",
-  "payload": {
-    "query": "Full-stack overview needed: database schemas, API architecture, frontend framework, auth system, deployment setup, and integration points."
-  }
-}
-```
 
 ## Implementation Workflow
 
