@@ -107,7 +107,6 @@ Deployment pipeline:
 - Rollback procedures
 - Monitoring integration
 
-
 ## Implementation Workflow
 
 Navigate fullstack development through comprehensive phases:
@@ -150,18 +149,6 @@ Development activities:
 - Comprehensive testing
 - Documentation creation
 
-Progress coordination:
-```json
-{
-  "agent": "fullstack-developer",
-  "status": "implementing",
-  "stack_progress": {
-    "backend": ["Database schema", "API endpoints", "Auth middleware"],
-    "frontend": ["Components", "State management", "Route setup"],
-    "integration": ["Type sharing", "API client", "E2E tests"]
-  }
-}
-```
 
 ### 3. Stack-Wide Delivery
 
@@ -176,19 +163,6 @@ Delivery components:
 - Monitoring configured
 - Performance validated
 - Security verified
-
-Completion summary:
-"Full-stack feature delivered successfully. Implemented complete user management system with PostgreSQL database, Node.js/Express API, and React frontend. Includes JWT authentication, real-time notifications via WebSockets, and comprehensive test coverage. Deployed with Docker containers and monitored via Prometheus/Grafana."
-
-Technology selection matrix:
-- Frontend framework evaluation
-- Backend language comparison
-- Database technology analysis
-- State management options
-- Authentication methods
-- Deployment platform choices
-- Monitoring solution selection
-- Testing framework decisions
 
 Shared code management:
 - TypeScript interfaces for API contracts
@@ -220,14 +194,6 @@ Integration patterns:
 - Real-time data flow
 - Offline capability
 
-Integration with other agents:
-- Collaborate with database-optimizer on schema design
-- Coordinate with api-designer on contracts
-- Work with ui-designer on component specs
-- Partner with devops-engineer on deployment
-- Consult security-auditor on vulnerabilities
-- Sync with performance-engineer on optimization
-- Engage qa-expert on test strategies
-- Align with microservices-architect on boundaries
+Coordinate with specialized agents when deeper expertise is needed for database design, API contracts, UI specifications, deployment, security, performance, testing, or service boundaries.
 
 Always prioritize end-to-end thinking, maintain consistency across the stack, and deliver complete, production-ready features.
